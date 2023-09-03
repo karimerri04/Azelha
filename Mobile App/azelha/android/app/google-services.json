@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786521541007",
+    "firebase_url": "https://azelha.firebaseio.com",
+    "project_id": "azelha",
+    "storage_bucket": "azelha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786521541007:android:2327180e741c8be41d63fa",
+        "android_client_info": {
+          "package_name": "com.montreal.azelha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786521541007-re1j7kqtet7d9nqlvqoojb8v6oqsmhec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtz3-g44kz9afmJJ2zVqVoe9PncDee6PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786521541007-re1j7kqtet7d9nqlvqoojb8v6oqsmhec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
